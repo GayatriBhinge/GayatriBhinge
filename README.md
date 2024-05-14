@@ -1,5 +1,5 @@
 
-![logo](https://github.com/GayatriBhinge/GayatriBhinge/blob/main/online-business-database.jpg)
+![logo](https://github.com/GayatriBhinge/GayatriBhinge/blob/main/Banner1.jpg)
 <h1 align="center">Hi 👋, I'm Gayatri Bhinge</h1>
 <h3 align="center">A passionate student at IIITB | Data Science Program from India</h3>
 
