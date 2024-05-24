@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **| Python | NumPy | Pandas | MySQL | PostgreSQL | Data Visualisation | Mitplotlib | Seaborn | EDA**
 
-- 💬 Ask me about **| Python | NumPy | Pandas | MySQL | Data Visualisation | Mitplotlib | Seaborn | EDA**
+- 💬 Ask me about **EXCELL | Python | NumPy | Pandas | MySQL | Data Visualisation | Mitplotlib | Seaborn | EDA**
 
 - 📫 How to reach me **gayatri.bhinge@gmail.com**
 
