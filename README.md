@@ -1,22 +1,54 @@
 
-![logo](https://github.com/GayatriBhinge/GayatriBhinge/blob/main/Banner1.jpg)
+![b2](https://github.com/user-attachments/assets/3adbe11f-79ca-4c27-9e44-357665ee8dd5)
+
 <h1 align="center">Hi 👋, I'm Gayatri Bhinge</h1>
 <h3 align="center">Hi, I'm Gayatri, and  I'm  passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science Program.</h3>
 
-<img align = "right" alt ="coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+
+<h1 align="center">Professional Summary</h1>
+- 🌱 Skilled Power BI Developer with 3 years of experience in designing, developing, and optimizing interactive dashboards and reports. Proficient in data modelling, transformation, and collaborating with QA teams via Jira for accurate, high-performance solutions. Experienced working with Lead Power BI Developers, Business Analysts, and Data Engineers to gather requirements and craft efficient queries that drive insights.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatribhinge&label=Profile%20views&color=0e75b6&style=flat" alt="gayatribhinge" /> </p>
+<h1 align="center">Achievements</h1>
+- 🌱 CAPGEMINI  3 Times STAR/ Rising Star Winner
+01 Aug 2021 to 31 Aug 2021, 01 Apr 2022 to 30 Jun 2022, 01 Oct 2022 to 31 Dec 2022
 
-- 🌱 I’m currently learning **| Python | NumPy | Pandas | MySQL | PostgreSQL | Data Visualisation | Mitplotlib | Seaborn | EDA**
+<h1 align="center">Work Experience</h1>
+- 🌱Date: Feb 2024 – Present<br>
+- 🌱Company Name: Professional Freelancer<br>
+- 🌱Job Title: Data Visualization Specialist | Power BI | MS SQL<br>
+- 🌱Skills: <br>
+o	Power BI Reports   ->  Dashboards | DAX | Data Modelling | Sharing | Bookmarks | Filters | Power Query<br><br>
+o	SQL   -> Microsoft SQL | Microsoft SQL Server | MySQL |  Spark SQL<br><br>
+o	Data Science   ->  Critical Thinking  |  Communication Skills |   Collaboration  |  Problem-Solving  |  Creativity <br><br>
+o	Data Visualization   ->  Data Literacy  |  Design Principles  |  Storytelling  |  Technical Proficiency  |  Analytical Thinking<br><br>
+o	Soft Skills   ->  Time Management |  Problem-Solving  |  Attention to Detail | Collaboration  | Adaptability  <br><br>
+o	E-Learning   ->  UI  |  Storyboarding | Infographics |  Visualization | Animation | Simulations  <br><br>
+o	Cloude Services -> Amazon EMR | Spark | Amazon EC2| Amazon S3 | Spark clusters | Big Data Analytics| ETL Pipelines| Machine Learning<br><br>
+- 🌱Role: <br>
+- As a freelancer, I specialize in dashboard development, DAX calculations, Power Query transformations, and data visualization. I create comprehensive reports with drill-down capabilities, implement row-level security (RLS) for tailored data access, and utilize bookmarks and page navigation for enhanced user experience.<br><br>
+- Knowledgeable in AWS with skills in SQL, ETL, and EDA; experienced in database management using RDS and MySQL for efficient data handling<br><br>
+- Knowledgeable in writing SQL queries to extract and manipulate data. Experienced in importing and transforming data in Power BI for insightful reporting and analysis.<br><br>
+- Freelance Visual Designer for mobile apps, wireframing, mockups, and interactive eLearning (Storyline 360), focusing on user experience and engaging interfaces.<br><br>
 
-- 💬 Ask me about **EXCELL | Python | NumPy | Pandas | MySQL | Data Visualisation | Mitplotlib | Seaborn | EDA**
 
-- 📫 How to reach me **gayatri.bhinge@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/gayatri-bhinge](www.linkedin.com/in/gayatri-bhinge)
 
-- ⚡ Fun fact **😎 I think I am funny**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,9 +59,4 @@
 <a href="https://www.behance.net/gayatribhinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gayatribhinge" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatribhinge&show_icons=true&locale=en&layout=compact" alt="gayatribhinge" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatribhinge&show_icons=true&locale=en" alt="gayatribhinge" /></p>
